@@ -19,7 +19,6 @@ export default class MyDocument extends Document {
             rel="stylesheet" 
           />
 
-          <title>ig.news</title>
         </Head>
           <body>
             <Main />
